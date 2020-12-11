@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">POSLinkUI</string>
+    <string name="activityName_InputAccount">InputAccount</string>
+    <string name="activityName_EnterAmount">EnterAmount</string>
+    <string name="next">Next</string>
+    <string name="enter_amount">Please Enter Amount</string>
+    <string name="confirm">Confirm</string>
+</resources>
